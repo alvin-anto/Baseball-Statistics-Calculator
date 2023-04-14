@@ -1,10 +1,7 @@
 
 /**
  * ALVIN ANTO
- * NET ID: AXA220139
- * UTD ID: 2021686750
- * CS 2337.002
- * PROJECT ZERO JAVA IMPLEMENTATION
+ * Baseball Statistics Calculator
  */
 
 import java.io.BufferedReader; //import statement for BufferedReader
