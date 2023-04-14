@@ -1,4 +1,4 @@
-# Baseball-Statistics-Calculator
+# Baseball Statistics Calculator
 This is a Java-based application that calculates baseball player statistics and determines the league leaders in several different baseball categories, such as hits, strikeouts, and walks. The application reads player data from a text file and displays the stats for each player, as well as the league leaders in each category.
 
 **Getting Started**
